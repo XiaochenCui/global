@@ -1,6 +1,6 @@
 ---
 name: xc-answer
-description: Find (xc: ...) markers in a file and respond to each with an Obsidian callout
+description: "Find (xc: ...) markers in a file and respond to each with an Obsidian callout"
 ---
 
 ## Usage
